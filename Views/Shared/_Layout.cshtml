@@ -1,0 +1,247 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>FPTJobMatch</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="CreativeLayers">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/AppDevGCD1104.styles.css" asp-append-version="true" />
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+
+	<link rel="stylesheet" type="text/css" href="~/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="~/css/icons.css">
+	<link rel="stylesheet" href="~/css/animate.min.css">
+	<link rel="stylesheet" type="text/css" href="~/css/style.css">
+	<link rel="stylesheet" type="text/css" href="~/css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="~/css/chosen.css">
+	<link rel="stylesheet" type="text/css" href="~/css/colors.css">
+	<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css">
+	<link rel="stylesheet" href="~/css/font-awesome.min.css">
+
+</head>
+
+<body>
+	<div class="theme-layout" id="scrollup">
+		<div class="responsive-header">
+			<div class="responsive-menubar">
+				<div class="text-light">FPTJobMatch</div>
+				<div class="menu-resaction">
+					<div class="res-openmenu">
+						<img src="~/images/icon.png" alt=""> Menu
+					</div>
+					<div class="res-closemenu">
+						<img src="~/images/icon2.png" alt=""> Close
+					</div>
+				</div>
+			</div>
+			<div class="responsive-opensec">
+				<div class="btn-extars">
+					@if (User.IsInRole("Employer"))
+
+					{
+						<a asp-area="Employer" asp-controller="Employer" asp-action="Postnew" class="post-job-btn"><i
+								class="la la-plus"></i>Post Jobs</a>
+					}
+					<partial name="_LoginPartial" />
+				</div><!-- Btn Extras -->
+				<form class="res-search">
+					<input type="text" placeholder="Job title, keywords or company name">
+					<button type="submit"><i class="la la-search"></i></button>
+				</form>
+				<div class="responsivemenu">
+					<ul>
+						<li class="menu-item-has-children">
+							<a asp-area="User" asp-controller="Home" asp-action="Index">Home</a>
+						</li>
+						@if ((User.IsInRole("Employer")))
+
+						{
+							<li class="menu-item-has-children">
+								<a href="#" title="">Employer</a>
+								<ul>
+									<li><a asp-area="Employer" asp-controller="Job" asp-action="ManagerJob">Employer Job
+											Manager</a></li>
+									<li><a asp-area="Employer" asp-controller="Job" asp-action="Postnew">Employer Post
+											New</a></li>
+									<li><a asp-area="Employer" asp-controller="Categories" asp-action="Index">Request
+											Category</a></li>
+								</ul>
+							</li>
+						}
+						@if (User.IsInRole("Candidate"))
+
+						{
+							<li class="menu-item-has-children">
+								<a href="#" title="">Candidates</a>
+								<ul>
+									<li><a asp-area="Candidate" asp-controller="Profile" asp-action="Resume">Candidates
+											Resume</a></li>
+									<li><a asp-area="Candidate" asp-controller="Profile" asp-action="Profile"
+											asp-route-data="@UserManager.GetUserId(User)">Candidates Profile</a></li>
+									<li><a href="candidates_single.html" title="">Candidates Shortlist</a></li>
+									<li><a asp-area="Candidate" asp-controller="Apply" asp-action="Index">Applied Jobs</a>
+									</li>
+								</ul>
+							</li>
+						}
+						@if (User.IsInRole("Admin"))
+
+						{
+							<li class="menu-item-has-children">
+								<a href="#" title="">Admin</a>
+								<ul>
+									<li><a asp-area="Admin" asp-controller="Categories" asp-action="Index">Manager
+											Categories</a></li>
+									<li><a asp-area="Admin" asp-controller="Account" asp-action="Index">Manager Account</a>
+									</li>
+								</ul>
+							</li>
+						}
+						<li class="menu-item-has-children">
+							<a asp-area="User" asp-controller="Job" asp-action="Index">Job</a>
+						</li>
+						<li class="menu-item-has-children">
+							<a href="#" title="">Pages</a>
+							<ul>
+								<li><a href="#" title="">About Us</a></li>
+								<li><a href="#" title="">404 Error</a></li>
+								<li><a href="#" title="">Contact Us</a></li>
+								<li><a href="#" title="">FAQ's</a></li>
+								<li><a href="#" title="">How it works</a></li>
+								<li><a href="#" title="">Login</a></li>
+								<li><a href="#" title="">Pricing Plans</a></li>
+								<li><a href="#" title="">Register</a></li>
+								<li><a href="#" title="">Terms &amp; Condition</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<header class="stick-top forsticky bg-secondary">
+			<div class="menu-sec bg-secondary">
+				<div class="container">
+					@* <div class="logo"> *@
+					@* <a href="index.html" title=""><img class="hidesticky" src="~/images/logo.png" alt=""><img
+					class="showsticky" src="~/images/logo10.png" alt=""></a> *@
+					<h1 class="text-light">FPTJobMatch</h1>
+					@* </div><!-- Logo --> *@
+					<div class="btn-extars">
+						@if (User.IsInRole("Employer"))
+
+						{
+							<a asp-area="Employer" asp-controller="Job" asp-action="Postnew" class="post-job-btn">Post
+								Jobs</a>
+						}
+						<partial name="_LoginPartial" />
+					</div><!-- Btn Extras -->
+					<nav>
+						<ul>
+							<li class="menu-item-has-children">
+								<a asp-area="User" asp-controller="Home" asp-action="Index">Home</a>
+							</li>
+							@if (User.IsInRole("Employer"))
+
+							{
+								<li class="menu-item-has-children">
+									<a href="#" title="">Employer</a>
+									<ul>
+										<li><a asp-area="Employer" asp-controller="Job" asp-action="ManagerJob">Employer Job
+												Manager</a></li>
+										<li><a asp-area="Employer" asp-controller="Job" asp-action="Postnew">Employer Post
+												New</a></li>
+										<li><a asp-area="Employer" asp-controller="Categories" asp-action="Index">Request
+												Category</a></li>
+									</ul>
+								</li>
+							}
+							@if (User.IsInRole("Candidate"))
+
+							{
+								<li class="menu-item-has-children">
+									<a href="#" title="">Candidates</a>
+									<ul>
+										<li><a asp-area="Candidate" asp-controller="Profile" asp-action="Resume">Candidates
+												Resume</a></li>
+										<li><a asp-area="Candidate" asp-controller="Profile" asp-action="Profile"
+												asp-route-data="@UserManager.GetUserId(User)">Candidates Profile</a></li>
+										<li><a href="candidates_single.html" title="">Candidates Shortlist</a></li>
+										<li><a asp-area="Candidate" asp-controller="Apply" asp-action="Index">Applied
+												Jobs</a></li>
+									</ul>
+								</li>
+							}
+							@if (User.IsInRole("Admin"))
+
+							{
+								<li class="menu-item-has-children">
+									<a href="#" title="">Admin</a>
+									<ul>
+										<li><a asp-area="Admin" asp-controller="Categories" asp-action="Index">Manager
+												Categories</a></li>
+										<li><a asp-area="Admin" asp-controller="Account" asp-action="Index">Manager
+												Account</a></li>
+									</ul>
+								</li>
+							}
+							<li class="menu-item-has-children">
+								<a asp-area="User" asp-controller="Job" asp-action="Index">Job</a>
+							</li>
+							<li class="menu-item-has-children">
+								<a href="#" title="">Pages</a>
+								<ul>
+									<li><a href="#" title="">About Us</a></li>
+									<li><a href="#" title="">404 Error</a></li>
+									<li><a href="#" title="">Contact Us</a></li>
+									<li><a href="#" title="">FAQ's</a></li>
+									<li><a href="#" title="">How it works</a></li>
+									<li><a href="#" title="">Login</a></li>
+									<li><a href="#" title="">Pricing Plans</a></li>
+									<li><a href="#" title="">Register</a></li>
+									<li><a href="#" title="">Terms &amp; Condition</a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav><!-- Menus -->
+				</div>
+			</div>
+		</header>
+		<div>
+		</div>
+		<main>
+			@RenderBody()
+		</main>
+	</div>
+	<script src="~/js/jquery.min.js" type="text/javascript"></script>
+	<script src="~/js/modernizr.js" type="text/javascript"></script>
+	<script src="~/js/script.js" type="text/javascript"></script>
+	<script src="~/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="~/js/wow.min.js" type="text/javascript"></script>
+	<script src="~/js/slick.min.js" type="text/javascript"></script>
+	<script src="~/js/parallax.js" type="text/javascript"></script>
+	<script src="~/js/select-chosen.js" type="text/javascript"></script>
+	<script src="~/js/jquery.scrollbar.min.js" type="text/javascript"></script>
+	<script src="~/js/tag.js" type="text/javascript"></script>
+	<script src="~/js/maps3.js" type="text/javascript"></script>
+	<script
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAz77U5XQuEME6TpftaMdX0bBelQxXRlM&amp;callback=initMap"
+		type="text/javascript"></script>
+
+
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

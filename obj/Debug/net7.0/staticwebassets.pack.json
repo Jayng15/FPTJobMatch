@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FPTJobMatch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FPTJobMatch.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\chosen.css",
+      "PackagePath": "staticwebassets\\css\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\colors.css",
+      "PackagePath": "staticwebassets\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\fontawesome-webfont_1.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont_1.eot"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\fonts\\line-awesome_1.eot",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome_1.eot"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\2005e147-25e2-443f-af92-91923e1fb0a1.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\2005e147-25e2-443f-af92-91923e1fb0a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\44e2cd7d-a432-48f0-82f8-ab8a8b9adcad.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\44e2cd7d-a432-48f0-82f8-ab8a8b9adcad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\453b1909-c0ef-450f-bbfb-738f9784c13e.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\453b1909-c0ef-450f-bbfb-738f9784c13e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\7217472a-c0bc-4f15-ab6e-5946df28dd3c.JPG",
+      "PackagePath": "staticwebassets\\images\\User\\7217472a-c0bc-4f15-ab6e-5946df28dd3c.JPG"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\8ea7fff9-bd85-44dc-beaf-ad2e3a3626f8.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\8ea7fff9-bd85-44dc-beaf-ad2e3a3626f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\c35fa914-526c-4c1b-bbbd-fa62af8b599c.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\c35fa914-526c-4c1b-bbbd-fa62af8b599c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\User\\cdbe1d0a-8c5e-4341-9259-f095ab5e2427.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\cdbe1d0a-8c5e-4341-9259-f095ab5e2427.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\cc1.jpg",
+      "PackagePath": "staticwebassets\\images\\cc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\cc2.jpg",
+      "PackagePath": "staticwebassets\\images\\cc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\cc3.jpg",
+      "PackagePath": "staticwebassets\\images\\cc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\cc4.jpg",
+      "PackagePath": "staticwebassets\\images\\cc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\cc5.jpg",
+      "PackagePath": "staticwebassets\\images\\cc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\images\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\dw1.png",
+      "PackagePath": "staticwebassets\\images\\dw1.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\dw2.png",
+      "PackagePath": "staticwebassets\\images\\dw2.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\images\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\fpt.jpg",
+      "PackagePath": "staticwebassets\\images\\fpt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg1.png",
+      "PackagePath": "staticwebassets\\images\\jg1.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg2.png",
+      "PackagePath": "staticwebassets\\images\\jg2.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg3.png",
+      "PackagePath": "staticwebassets\\images\\jg3.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg4.png",
+      "PackagePath": "staticwebassets\\images\\jg4.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg5.png",
+      "PackagePath": "staticwebassets\\images\\jg5.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg6.png",
+      "PackagePath": "staticwebassets\\images\\jg6.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg7.png",
+      "PackagePath": "staticwebassets\\images\\jg7.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg8.png",
+      "PackagePath": "staticwebassets\\images\\jg8.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\jg9.png",
+      "PackagePath": "staticwebassets\\images\\jg9.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l1.png",
+      "PackagePath": "staticwebassets\\images\\l1.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l2.png",
+      "PackagePath": "staticwebassets\\images\\l2.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l3.png",
+      "PackagePath": "staticwebassets\\images\\l3.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l4.png",
+      "PackagePath": "staticwebassets\\images\\l4.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l5.png",
+      "PackagePath": "staticwebassets\\images\\l5.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\l6.png",
+      "PackagePath": "staticwebassets\\images\\l6.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\images\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\line1.png",
+      "PackagePath": "staticwebassets\\images\\line1.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\line2.png",
+      "PackagePath": "staticwebassets\\images\\line2.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\line3.png",
+      "PackagePath": "staticwebassets\\images\\line3.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\line4.png",
+      "PackagePath": "staticwebassets\\images\\line4.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\lines.png",
+      "PackagePath": "staticwebassets\\images\\lines.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\logo10.png",
+      "PackagePath": "staticwebassets\\images\\logo10.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\mslider1.jpg",
+      "PackagePath": "staticwebassets\\images\\mslider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\parallax1.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\parallax2.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\parallax3.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\images\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\r1.jpg",
+      "PackagePath": "staticwebassets\\images\\r1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\r2.jpg",
+      "PackagePath": "staticwebassets\\images\\r2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\sjs.png",
+      "PackagePath": "staticwebassets\\images\\sjs.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\up1.jpg",
+      "PackagePath": "staticwebassets\\images\\up1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\up2.jpg",
+      "PackagePath": "staticwebassets\\images\\up2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\images\\vector-1.png",
+      "PackagePath": "staticwebassets\\images\\vector-1.png"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\maps3.js",
+      "PackagePath": "staticwebassets\\js\\maps3.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\select-chosen.js",
+      "PackagePath": "staticwebassets\\js\\select-chosen.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\tag.js",
+      "PackagePath": "staticwebassets\\js\\tag.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jayng\\Desktop\\Education\\study\\College\\ApplicationDevelopment.7436\\assignments\\asm2\\program\\FptJobMatch\\FptJobMatch\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FPTJobMatch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FPTJobMatch.props",
+      "PackagePath": "build\\FPTJobMatch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FPTJobMatch.props",
+      "PackagePath": "buildMultiTargeting\\FPTJobMatch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FPTJobMatch.props",
+      "PackagePath": "buildTransitive\\FPTJobMatch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
